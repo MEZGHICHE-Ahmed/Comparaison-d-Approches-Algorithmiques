@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703448035 source:c:\users\but-info\downloads\sae102(1)\sae102\c\sae102\tri.c
+	<stdio.h>
+	<stdlib.h>
+
+1703448035 source:c:\users\but-info\downloads\sae102(1)\sae102\c\sae102\utile.c
+	<stdio.h>
+	<stdlib.h>
+
